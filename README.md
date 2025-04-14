@@ -63,10 +63,6 @@ Launch the temperature prediction pipeline by specifying the location and model 
 python predict_temperature.py --latitude 23.0258 --longitude 72.5873 --model_type GRU_Attention
 ```
 
-*Example Output:*
-
-![Prediction Plot](https://via.placeholder.com/800x400.png/003366/FFFFFF?text=Actual+vs+Predicted+24h+Forecast)
-
 ---
 
 ## **Customization Guide**
