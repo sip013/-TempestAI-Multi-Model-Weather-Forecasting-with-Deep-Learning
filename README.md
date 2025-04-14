@@ -1,8 +1,6 @@
 # **TempestAI: Multi-Model Weather Forecasting with Deep Learning**  
 *Predicting Tomorrow’s Weather Today with Neural Networks*
 
-![Header Banner](https://via.placeholder.com/1500x500.png/000000/FFFFFF?text=TempestAI:+Deep+Learning+for+Weather+Forecasting)
-
 TempestAI is a dynamic deep learning system designed for hourly temperature prediction using various neural network architectures. Compare the performance of GRU with attention, LSTM Encoder-Decoder, CNN-GRU hybrids, and dense models while leveraging cyclical feature engineering and automated weather data pipelines.
 
 ---
