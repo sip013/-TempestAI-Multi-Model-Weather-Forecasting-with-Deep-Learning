@@ -19,12 +19,7 @@ TempestAI is a dynamic deep learning system designed for hourly temperature pred
 
 ---
 
-## **Model Architectures**
-
-### Architecture Diagram  
-![Model Diagram](https://via.placeholder.com/800x400.png/003366/FFFFFF?text=Architecture+Comparison)
-
-### Detailed Architectures
+## Detailed Architectures
 
 1. **GRU with Attention**  
    ```python
